@@ -41,5 +41,12 @@
   },
   "scripts": {
     "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-find-and-replace": "^35.1.0",
+    "@ckeditor/ckeditor5-highlight": "^35.1.0",
+    "@ckeditor/ckeditor5-html-support": "^35.1.0",
+    "@ckeditor/ckeditor5-language": "^35.1.0",
+    "@ckeditor/ckeditor5-mention": "^35.1.0"
   }
 }
